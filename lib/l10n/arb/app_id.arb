@@ -1,0 +1,20 @@
+{
+    "@@locale": "id",
+    "counterAppBarTitle": "Perhitungan",
+    "@counterAppBarTitle": {
+        "description": "Teks ditampilkan di AppBar dari Halaman Penghitung"
+    },
+    "locale": "Indonesia",
+    "chooseLanguage": "Pilih bahasa aplikasi Anda",
+    "home": "Beranda",
+    "template": "Template",
+    "settings": "Pengaturan",
+    "next": "Selanjutnya",
+    "search": "Cari",
+    "internetConnected": "Internet Terhubung",
+    "internetDisconnected": "Internet Terputus",
+    "languages": "Bahasa",
+    "changeLanguage": "Ubah bahasa aplikasi",
+    "themes": "Themes",
+    "changeTheme": "Ubah tema aplikasi"
+}

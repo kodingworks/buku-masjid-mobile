@@ -1,0 +1,95 @@
+name: buku_masjid
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_localizations:
+    sdk: flutter
+
+  bloc_concurrency: ^0.2.4
+  cached_network_image: ^3.3.1
+  cupertino_icons: ^1.0.6
+  dartz: ^0.10.1
+  dio: ^5.4.1
+  equatable: ^2.0.5
+  flutter_bloc: ^8.1.4
+  flutter_staggered_grid_view: ^0.7.0
+  flutter_svg: ^2.0.10+1
+  formz: ^0.7.0
+  get_it: ^7.6.7
+  hive: ^2.2.3
+  internet_connection_checker: ^1.0.0+1
+  intl: ^0.18.1
+  json_annotation: ^4.8.1
+  path_provider: ^2.1.2
+  shimmer: ^3.0.0
+  stream_transform: ^2.1.0
+  url_launcher: ^6.2.5
+  webview_flutter: ^4.7.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  bloc_test: ^9.1.6
+  build_runner: ^2.4.8
+  flutter_lints: ^3.0.0
+  json_serializable: ^6.7.1
+  
+flutter:
+  uses-material-design: true
+  generate: true
+
+  assets:
+    - assets/images/
+    - assets/images/bitmap/
+    - assets/images/flags/
+    - assets/images/icons/
+    - assets/images/illustration/
+
+  fonts:
+    - family: CustomIcons
+      fonts:
+        - asset: assets/fonts/icons/CustomIcons.ttf
+
+    - family: PlusJakartaSans
+      fonts:
+        - asset: assets/fonts/jakarta/PlusJakartaSans-Bold.ttf
+          weight: 700
+        - asset: assets/fonts/jakarta/PlusJakartaSans-BoldItalic.ttf
+          weight: 700
+          style: italic
+        - asset: assets/fonts/jakarta/PlusJakartaSans-ExtraBold.ttf
+          weight: 900
+        - asset: assets/fonts/jakarta/PlusJakartaSans-ExtraBoldItalic.ttf
+          weight: 900
+          style: italic
+        - asset: assets/fonts/jakarta/PlusJakartaSans-ExtraLight.ttf
+          weight: 200
+        - asset: assets/fonts/jakarta/PlusJakartaSans-ExtraLightItalic.ttf
+          weight: 200
+          style: italic
+        - asset: assets/fonts/jakarta/PlusJakartaSans-Italic.ttf
+          style: italic
+        - asset: assets/fonts/jakarta/PlusJakartaSans-Light.ttf
+          weight: 300
+        - asset: assets/fonts/jakarta/PlusJakartaSans-LightItalic.ttf
+          weight: 300
+          style: italic
+        - asset: assets/fonts/jakarta/PlusJakartaSans-Medium.ttf
+          weight: 500
+        - asset: assets/fonts/jakarta/PlusJakartaSans-MediumItalic.ttf
+          weight: 500
+          style: italic
+        - asset: assets/fonts/jakarta/PlusJakartaSans-Regular.ttf
+        - asset: assets/fonts/jakarta/PlusJakartaSans-SemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/jakarta/PlusJakartaSans-SemiBoldItalic.ttf
+          weight: 600
+          style: italic
