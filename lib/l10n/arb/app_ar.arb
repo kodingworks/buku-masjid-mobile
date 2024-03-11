@@ -1,0 +1,20 @@
+{
+    "@@locale": "ar",
+    "counterAppBarTitle": "عملية حسابية",
+    "@counterAppBarTitle": {
+        "description": "يتم عرض النص في AppBar الخاص بصفحة العداد"
+    },
+    "locale": "عربي",
+    "chooseLanguage": "اختر لغة التطبيق الخاص بك",
+    "home": "بيت",
+    "template": "نموذج",
+    "settings": "إعدادات",
+    "next": "التالي",
+    "search": "يبحث",
+    "internetConnected": "متصل بالإنترنت",
+    "internetDisconnected": "تم قطع الاتصال بالإنترنت",
+    "languages": "البهاسا",
+    "changeLanguage": "تغيير لغة التطبيق",
+    "themes": "المواضيع",
+    "changeTheme": "تغيير موضوع التطبيق"
+}

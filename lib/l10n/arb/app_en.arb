@@ -1,0 +1,20 @@
+{
+    "@@locale": "en",
+    "counterAppBarTitle": "Counter",
+    "@counterAppBarTitle": {
+        "description": "Text shown in the AppBar of the Counter Page"
+    },
+    "locale": "English",
+    "chooseLanguage": "Choose your app language",
+    "home": "Home",
+    "template": "Template",
+    "settings": "Settings",
+    "next": "Next",
+    "search": "Search",
+    "internetConnected": "Internet Connected",
+    "internetDisconnected": "Internet Disconnected",
+    "languages": "Languages",
+    "changeLanguage": "Change app language",
+    "themes": "Themes",
+    "changeTheme": "Change app theme"
+}
